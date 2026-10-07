@@ -76,6 +76,8 @@ ayse-yilmaz/
 
 Klasör adını `ad-soyad` biçiminde yaz: küçük harf, boşluk yerine tire, Türkçe karakter yok (`Ayşe Yılmaz` → `ayse-yilmaz`).
 
+Örnek olarak bu repodaki [`enes-sarpun`](enes-sarpun) klasörüne bakabilirsin. İçindeki `.gitkeep` dosyaları yalnızca boş klasörlerin görünmesi içindir; senin eklemen gerekmez.
+
 ### İlk hafta: adım adım
 
 Tüm adımlar tarayıcıdan yapılır, Git kurmana gerek yok.
