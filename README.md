@@ -13,13 +13,13 @@ Eğitim ücretsizdir; izlemek için BTK Akademi hesabıyla giriş yapman gerekir
 
 ## Haftalık program
 
-Kamp **11 Ekim 2026 Pazar** günü başlar ve 3 hafta sürer. Ödevlerin son teslim günü her hafta **Cumartesi**.
+Kamp **11 Ekim 2026 Pazar** günü başlar ve 3 hafta sürer. Ödevlerin son teslimi her hafta **Cumartesi 23.59**.
 
 | Hafta | Modüller | Video süresi | Ödev son teslim |
 | --- | --- | --- | --- |
-| 1 | 1. Tanıtım<br>2. Gerekli Ortamın Hazırlanması<br>3. Python Objeleri ve Veri Yapıları<br>4. Python Operatörleri | 4 sa 45 dk | 17 Ekim Cumartesi |
-| 2 | 5. Koşul İfadeleri<br>6. Döngüler<br>7. Fonksiyonlar | 3 sa 39 dk | 24 Ekim Cumartesi |
-| 3 | 8. Nesne Tabanlı Programlama<br>9. Modüller<br>10. Hata ve Hata Yönetimi<br>11. Dosya Yönetimi<br>12. Fonksiyonlarda ileri konular (iç içe fonksiyonlar, decorator)<br>13. Iterators<br>14. Generators | 4 sa 37 dk | 31 Ekim Cumartesi |
+| 1 | 1. Tanıtım<br>2. Gerekli Ortamın Hazırlanması<br>3. Python Objeleri ve Veri Yapıları<br>4. Python Operatörleri | 4 sa 45 dk | 17 Ekim Cumartesi, 23.59 |
+| 2 | 5. Koşul İfadeleri<br>6. Döngüler<br>7. Fonksiyonlar | 3 sa 39 dk | 24 Ekim Cumartesi, 23.59 |
+| 3 | 8. Nesne Tabanlı Programlama<br>9. Modüller<br>10. Hata ve Hata Yönetimi<br>11. Dosya Yönetimi<br>12. Fonksiyonlarda ileri konular (iç içe fonksiyonlar, decorator)<br>13. Iterators<br>14. Generators | 4 sa 37 dk | 31 Ekim Cumartesi, 23.59 |
 
 Ödev Cumartesi günü teslim edildiği için videoları haftaya yay: günde yaklaşık 45 dakika video ve en az o kadar kod yazma ile haftayı rahat tamamlarsın. 3. modül tek başına 3 saat sürüyor, ilk haftayı son güne bırakma.
 
@@ -30,9 +30,9 @@ Kamp **11 Ekim 2026 Pazar** günü başlar ve 3 hafta sürer. Ödevlerin son tes
 
 ## Ödev süreci
 
-1. Her hafta ödev PDF olarak duyuru kanalında paylaşılır. Son teslim o haftanın Cumartesi günüdür.
+1. Her hafta ödev PDF olarak duyuru kanalında paylaşılır. Son teslim o haftanın Cumartesi günü saat 23.59'dur.
 2. Çözümlerini `.py` dosyaları olarak yazarsın.
-3. Dosyalarını Cumartesi gününe kadar bu repoda kendi adını taşıyan klasöre, **Fork** ve **Pull Request** ile gönderirsin. İkisi de hemen aşağıda anlatılıyor.
+3. Dosyalarını Cumartesi 23.59'a kadar bu repoda kendi adını taşıyan klasöre, **Fork** ve **Pull Request** ile gönderirsin. İkisi de hemen aşağıda anlatılıyor.
 4. Ekip Pull Request'ini inceler ve birleştirir (merge). Bundan sonra klasörün bu repoda görünür.
 
 ### Fork ve Pull Request nedir?
