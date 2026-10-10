@@ -1,6 +1,6 @@
 # PyStart Python Kampı
 
-Düzce Üniversitesi Yazılım ve Bilişim Topluluğu'nun 3 haftalık Python kampı. Eğitimi BTK Akademi'den kendi hızında izler, her hafta bir ödev çözer ve çözümünü bu repoya yüklersin.
+Düzce Üniversitesi Yazılım ve Bilişim Topluluğu'nun 3 haftalık Python kampına hoş geldin. Eğitimi BTK Akademi'den kendi hızında izler, her hafta bir ödev çözer ve çözümünü bu repoya yüklersin.
 
 ## Eğitim
 
