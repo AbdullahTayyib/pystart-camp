@@ -30,10 +30,12 @@ Kamp **11 Ekim 2026 Pazar** günü başlar ve 3 hafta sürer. Ödevlerin son tes
 
 ## Ödev süreci
 
-1. Her hafta ödev PDF olarak duyuru kanalında paylaşılır. Son teslim o haftanın Cumartesi günü saat 23.59'dur.
-2. Çözümlerini `.py` dosyaları olarak yazarsın.
+1. Her hafta ödev notebook'u (`Hafta_1_Odevi.ipynb` gibi) duyuru kanalında paylaşılır. Son teslim o haftanın Cumartesi günü saat 23.59'dur.
+2. Notebook'u indirip çözümlerini soruların altındaki kod hücrelerine yazarsın. Göndermeden önce bütün hücreleri çalıştır; çıktılar notebook'ta kalsın.
 3. Dosyalarını Cumartesi 23.59'a kadar bu repoda kendi adını taşıyan klasöre, **Fork** ve **Pull Request** ile gönderirsin. İkisi de hemen aşağıda anlatılıyor.
 4. Ekip Pull Request'ini inceler ve birleştirir (merge). Bundan sonra klasörün bu repoda görünür.
+
+Notebook'u VS Code (Python ve Jupyter eklentileriyle), Jupyter Notebook ya da Google Colab ile açabilirsin. `input()` kullanan bir hücre çalışınca altında giriş kutusu açılır.
 
 ### Fork ve Pull Request nedir?
 
@@ -68,11 +70,16 @@ Her katılımcının kendi adıyla bir klasörü, içinde her hafta için ayrı 
 ```
 ayse-yilmaz/
 ├── hafta-1/
-│   ├── soru1.py
-│   └── soru2.py
+│   └── Hafta_1_Odevi.ipynb
 ├── hafta-2/
+│   └── Hafta_2_Odevi.ipynb
 └── hafta-3/
+    ├── Hafta_3_Odevi.ipynb
+    ├── kutuphane.py
+    └── kitaplar.txt
 ```
+
+3. haftada notebook'un oluşturduğu `kutuphane.py` ve `kitaplar.txt` dosyaları da teslime girer.
 
 Klasör adını `ad-soyad` biçiminde yaz: küçük harf, boşluk yerine tire, Türkçe karakter yok (`Ayşe Yılmaz` → `ayse-yilmaz`).
 
@@ -84,11 +91,11 @@ Tüm adımlar tarayıcıdan yapılır, Git kurmana gerek yok.
 
 1. [github.com](https://github.com) üzerinden ücretsiz bir hesap aç.
 2. Bu sayfanın sağ üstündeki **Fork** düğmesine, ardından **Create fork**'a tıkla. Repo senin hesabına kopyalanır.
-3. Bilgisayarında `ad-soyad` adında bir klasör oluştur, içine `hafta-1` klasörünü aç ve `.py` dosyalarını oraya koy.
+3. Bilgisayarında `ad-soyad` adında bir klasör oluştur, içine `hafta-1` klasörünü aç ve doldurduğun `Hafta_1_Odevi.ipynb` dosyasını oraya koy.
 4. Kendi forkunda **Add file → Upload files**'a tıkla, `ad-soyad` klasörünü sayfaya sürükleyip bırak ve **Commit changes**'e bas.
 5. Forkunun ana sayfasında **Contribute → Open pull request**'e tıkla. Başlığa `Hafta 1 - Ad Soyad` yaz ve **Create pull request**'e bas.
 
-Klasörü sürükleyip bırakamıyorsan: **Add file → Create new file**'a tıkla, dosya adı kutusuna `ad-soyad/hafta-1/soru1.py` yaz (her `/` yeni bir klasör açar) ve kodunu yapıştır.
+Klasörü sürükleyip bırakamıyorsan: önce **Add file → Create new file**'a tıkla, dosya adı kutusuna `ad-soyad/hafta-1/README.md` yaz (her `/` yeni bir klasör açar), içine adını yazıp kaydet. Sonra oluşan `hafta-1` klasörüne gir ve **Add file → Upload files** ile notebook'unu yükle.
 
 ### Sonraki haftalar
 
