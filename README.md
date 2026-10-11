@@ -33,7 +33,7 @@ Küçük bir tavsiye: videoları haftaya yay. Günde 45 dakika kadar video izley
 1. Her hafta ödev notebook'u (`Hafta_1_Odevi.ipynb` gibi) duyuru kanalına gelecek. Son teslim o haftanın Cumartesi günü, saat 23.59.
 2. Notebook'u indir, çözümlerini soruların altındaki kod hücrelerine yaz. Göndermeden önce bütün hücreleri bir kez çalıştır ki çıktılar notebook'ta görünsün.
 3. Notebook'unu bu repoda kendi adının olduğu klasöre **Fork** ve **Pull Request** ile gönder. Bunlar ne demek, hemen aşağıda anlattık.
-4. Ekip PR'ına bakıp birleştirir (merge). Sonra klasörün burada görünür.
+4. Ekip sonrasında PR'ına bakıp birleştirir (merge). Sonra klasörün burada görünür.
 
 Notebook'u VS Code (Python ve Jupyter eklentileriyle), Jupyter Notebook ya da Google Colab'da açabilirsin. `input()` olan bir hücreyi çalıştırınca altında küçük bir giriş kutusu açılır, cevabını oraya yazarsın.
 
